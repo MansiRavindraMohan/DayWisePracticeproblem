@@ -1,0 +1,48 @@
+Shell scripting is the set of commands to be executed such that the shell can execute them. It is said to be the combination of long and repeatable command sequences into one script so that it can be executed as and when required. The main idea behind creating a shell script is to lessen the load of the end-user.
+www.educba.com/shell-scripting-commands/
+Shell Scripting Commands | Check Out List of Shell Scripting ...
+People also ask
+What are shell scripts?
+
+What are the disadvantages of shell scripts?
+
+What is the difference between a shell script and a wrapper?
+
+Is a script more complex than a shell?
+
+www.tutorialspoint.com › unix › shell_scriptingShell Scripting Tutorial - tutorialspoint.com
+A shell script is a computer program designed to be run by the Unix/Linux shell which could be one of the following: The Bourne Shell The C Shell The Korn Shell The GNU Bourne-Again Shell
+
+www.javatpoint.com › shell-scripting-tutorialShell Scripting Tutorial - javatpoint
+Prerequisite. Before learning Shell Scripting, you must have the basic knowledge of Operating System.
+Audience. Our Shell Scripting tutorial is designed to help beginners and professionals.
+Problem. We assure that you will not find any problem in this Shell Scripting tutorial. But if there is any mistake,...
+www.geeksforgeeks.org › introduction-linux-shellIntroduction to Linux Shell and Shell Scripting - GeeksforGeeks
+Sep 21, 2022 · There are many reasons to write shell scripts: To avoid repetitive work and automation System admins use shell scripting for routine backups System monitoring Adding new functionality to the shell etc.
+
+Videos
+Shell Scripting Tutorial | Shell Scripting Crash Course | Linux Certification Training | Edureka1:14:31
+youtube.com
+
+Shell Scripting Tutorial | Shell Scripting Crash Course | Linux Certification Training | Edureka
+
+18 Apr 2019974.4K views
+Shell Scripting Crash Course - Beginner Level32:19
+youtube.com
+
+Shell Scripting Crash Course - Beginner Level
+
+18 May 2018668.8K views
+Shell Scripting Tutorial for Beginners 1 - Introduction11:46
+youtube.com
+
+Shell Scripting Tutorial for Beginners 1 - Introduction
+
+18 Feb 20171.1M views
+View all
+www.educba.com › what-is-shell-scriptingWhat is Shell Scripting? | Detailed Concept of Shell ...
+There are some of the reason where we need to write shell scripts to avoid repetitive work and automation, to perform the routine backups by system admins using shell scripting, too Adding new functionality to the shell, to perform System monitoring and so on.
+See full list on educba.com
+
+www.tutorialspoint.com › what-is-shell-scriptWhat is Shell Script? - tutorialspoint.com
+Jun 22, 2020 · A shell script is a list of commands in a computer program that is run by the Unix shell which is a command line interpreter. A shell script usually has comments that describe the
